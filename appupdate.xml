@@ -2,10 +2,10 @@
   <version>1.0.1</version>
   <url>https://github.com/Yusuf-Ardiansyah/YouTube-Update/releases/latest/download/app-arm64-v8a-release.apk</url>
   <changelog>
-    [+] Optimalisasi Sistem Pemutar Video
-    [+] Pembersihan Cache Latar Belakang Otomatis
-    [+] Integrasi Audio Session (Suara Lebih Jernih)
-    [+] Pemutar Musik Latar (Background Play)
-    [+] Sistem Auto-Update dengan UI 3D Neumorphic
+[+] Optimalisasi Sistem 
+[+] Pembersihan Cache
+[+] Integrasi Audio Session
+[+] Pemutar Musik Latar
+[+] Sistem Auto-Update
   </changelog>
 </update>
